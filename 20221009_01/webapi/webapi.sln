@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldApi", "HelloWorldApi\HelloWorldApi.csproj", "{69815F07-102A-42B3-A724-A5DC27A1E744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69815F07-102A-42B3-A724-A5DC27A1E744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69815F07-102A-42B3-A724-A5DC27A1E744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69815F07-102A-42B3-A724-A5DC27A1E744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69815F07-102A-42B3-A724-A5DC27A1E744}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76C4B1FF-46ED-4458-BF33-CF34B4FB9A17}
+	EndGlobalSection
+EndGlobal
